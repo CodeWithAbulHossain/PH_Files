@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 82%;
+  max-width: 1600px;
+  height: auto;
+  margin: 0 auto;
+  font-family: "Work Sans", sans-serif;
+}
+header {
+  width: 100%;
+  height: 800px;
+  margin-bottom: 100px;
+}
+.banner {
+  background-image: url(../images/banner/banner1.png);
+}
+
+.header-text h1 {
+  color: #151414;
+  text-align: right;
+  font-size: 45px;
+  font-weight: 700;
+  padding: 250px 120px 35px 650px;
+}
+.banner p {
+  color: #444343;
+  text-align: right;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 26px;
+  padding: 0px 120px 20px 750px;
+}
+
+.header-text button {
+  border-radius: 5px;
+  background-color: #f15b22;
+  border: 0;
+  padding: 15px 20px;
+  margin: 0px 120px 20px 1000px;
+}
+.my-fa-section {
+  margin: 50px auto;
+}
+.my-failures {
+  display: flex;
+  gap: 60px;
+  margin: 0 160px;
+}
+
+.my-failures-content h2 {
+  color: #151414;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 250px 60px 5px 10px;
+}
+
+.my-failures-content > p {
+  color: #444343;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 22px;
+  margin: 10px 15px 5px 10px;
+}
+
+.my-failures-contentp p {
+  color: #444343;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 22px;
+  margin: 0px 15px 0px 10px;
+}
+.my-plans-section {
+  margin: 80px 170px;
+}
+.my-plan > h2 {
+  text-align: center;
+  color: #151414;
+  font-size: 35px;
+  font-weight: 700;
+  margin-bottom: 80px;
+}
+.my-plans {
+  display: flex;
+  justify-content: space-between;
+}
+
+.my-plans {
+  text-align: center;
+}
+
+.my-plans h2 {
+  color: #151414;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.my-plans h6 {
+  color: #737272;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+}
+.positive-section {
+  width: 980px;
+  height: 300px;
+  background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%),
+    url("../images/watch.png") center/cover,
+    url("../images/gradient3.png") center/cover;
+  margin: 50px auto;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.positiv h1 {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: left;
+  margin: 30px 470px 20px 50px;
+  color: aliceblue;
+}
+
+.positiv button {
+  margin: 0px 830px 20px 50px;
+  border-radius: 5px;
+  background: #fff;
+  border: 0;
+  padding: 15px 25px;
+}
+footer {
+  height: 577px;
+  background-color: #151414;
+}

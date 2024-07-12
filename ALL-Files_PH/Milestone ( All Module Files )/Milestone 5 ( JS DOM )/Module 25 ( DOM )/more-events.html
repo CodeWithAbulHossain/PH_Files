@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>More events</title>
+  </head>
+  <body>
+    <h1>Explore More Events</h1>
+    <button id="btn-more">Events</button>
+    <input id="text-filed" type="text" />
+    <script>
+      document
+        .getElementById("text-filed")
+        .addEventListener("focus", function () {
+          console.log("event triggerd");
+        });
+      document
+        .getElementById("btn-more")
+        .addEventListener("click", function () {
+          console.log("events");
+        });
+    </script>
+  </body>
+</html>

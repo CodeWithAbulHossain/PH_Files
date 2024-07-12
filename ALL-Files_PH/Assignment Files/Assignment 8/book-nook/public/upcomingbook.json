@@ -1,0 +1,50 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/yXPyqk3/download-1.jpg",
+    "category": "Fiction",
+    "publisher": "HarperCollins"
+  },
+  {
+    "bookId": 2,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/QMnDKxR/download-2.jpg",
+    "category": "Science Fiction",
+    "publisher": "Secker & Warburg"
+  },
+  {
+    "bookId": 3,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/ZLgrxnx/download-3.jpg",
+    "category": "Fiction",
+    "publisher": "Charles Scribner's Sons"
+  },
+  {
+    "bookId": 4,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co/dpsTRgp/download-4.jpg",
+    "category": "Romance",
+    "publisher": "T. Egerton, Whitehall"
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/pX3MLkq/download-5.jpg",
+    "category": "Fiction",
+    "publisher": "Little, Brown and Company"
+  },
+  {
+    "bookId": 6,
+    "bookName": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co/p0vQMsp/download-6.jpg",
+    "category": "Fantasy",
+    "publisher": "Bloomsbury Publishing"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 12345,
+    "Cover": "https://i.ibb.co/vjzL4FB/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+    "Title": "The Quantum Paradox",
+    "Author": "Dr. Alexandra Smith",
+    "Author_image": "https://i.ibb.co/jGm3NbF/alex-suprun-ZHv-M3-XIOHo-E-unsplash.jpg",
+    "Posted_time": "March 15, 2024, 10:00 AM",
+    "Reading_time": 12,
+    "Hashtags": ["#QuantumPhysics", "#Science #Theory"]
+  },
+  {
+    "ID": 67890,
+    "Cover": "https://i.ibb.co/zsKMfZM/jr-korpa-9-Xngo-Ipxc-Eo-unsplash.jpg",
+    "Title": "Secrets of the Universe",
+    "Author": "Professor Johnathan Black",
+    "Author_image": "https://i.ibb.co/D552p7s/foto-sushi-6anudmp-ILw4-unsplash.jpg",
+    "Posted_time": "March 15, 2024, 11:30 AM",
+    "Reading_time": 15,
+    "Hashtags": ["#Cosmology", "#SpaceExploration", "#Mystery"]
+  },
+  {
+    "ID": 24680,
+    "Cover": "https://i.ibb.co/F0pFpMc/josh-felise-y-IMy3-ERBc3o-unsplash.jpg",
+    "Title": "The Enigmatic Cipher",
+    "Author": "Dr. Emily White",
+    "Author_image": "https://i.ibb.co/jV3Lh7j/christian-buehner-84-E44-Ed-D18o-unsplash.jpg",
+    "Posted_time": "March 15, 2024, 1:45 PM",
+    "Reading_time": 20,
+    "Hashtags": ["#Cryptology", "#Mystery", "#Puzzle"]
+  },
+  {
+    "ID": 13579,
+    "Cover": "https://i.ibb.co/Rpp7jw6/mohamed-nohassi-odx-B5o-IG-i-A-unsplash.jpg",
+    "Title": "Echoes of Time",
+    "Author": "Professor Michael Green",
+    "Author_image": "https://i.ibb.co/0CCt9ns/harps-joseph-t-Avp-DE7f-Xg-Y-unsplash.jpg",
+    "Posted_time": "March 15, 2024, 3:20 PM",
+    "Reading_time": 18,
+    "Hashtags": ["#History", "#Archaeology", "#TimeTravel"]
+  },
+  {
+    "ID": 54321,
+    "Cover": "https://i.ibb.co/M20qHDL/davisuko-5-E5-N49-RWtb-A-unsplash.jpg",
+    "Title": "The Art of Deception",
+    "Author": "Dr. Samantha Brown",
+    "Author_image": "https://i.ibb.co/wyWF6nG/olena-bohovyk-c-PD00bu-XQkg-unsplash.jpg",
+    "Posted_time": "March 15, 2024, 5:00 PM",
+    "Reading_time": 25,
+    "Hashtags": ["#Psychology", "#Manipulation", "#SocialEngineering"]
+  }
+]

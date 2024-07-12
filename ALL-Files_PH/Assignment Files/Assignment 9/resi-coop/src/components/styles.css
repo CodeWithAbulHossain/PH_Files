@@ -1,0 +1,79 @@
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.Slide1 {
+  background-image: url(../assets/pexels-pixabay-276724.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.Slide2 {
+  background-image: url(../assets//pexels-pixabay-271624.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.Slide3 {
+  background-image: url(../assets/pexels-frans-van-heerden-1438832.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.Slide4 {
+  background-image: url(../assets/pexels-expect-best-323705.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.Slide5 {
+  background-image: url(../assets/pexels-efrem-efre-18847842.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.Slide6 {
+  background-image: url(../assets/pexels-pixabay-280229.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.Slide7 {
+  background-image: url(../assets/pexels-rdne-stock-project-7020692.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.Slide8 {
+  background-image: url(../assets/pexels-vlada-karpovich-4050317.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}

@@ -1,0 +1,95 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Keto Bacon-Wrapped Avocado Eggs",
+    "short_description": "Delicious baked avocado eggs wrapped in crispy bacon slices, perfect for a keto breakfast.",
+    "preparing_time": "25 minutes",
+    "calories": 320,
+    "ingredients": [
+      "3 ripe avocados",
+      "6 eggs",
+      "6 slices of bacon",
+      "Salt and pepper to taste"
+    ],
+    "recipe_image": "https://i.ibb.co/hdgzWxP/fried-egg-bacon-avocado-rose-600nw-435673948.webp"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Keto Cauliflower Mac and Cheese",
+    "short_description": "A low-carb version of classic mac and cheese using cauliflower instead of pasta.",
+    "preparing_time": "30 minutes",
+    "calories": 280,
+    "ingredients": [
+      "1 medium head cauliflower",
+      "1 cup heavy cream",
+      "2 cups shredded cheddar cheese",
+      "1/4 cup grated Parmesan cheese",
+      "Salt and pepper to taste"
+    ],
+    "recipe_image": "https://i.ibb.co/HC3TpVt/skillet-cauliflower-mac-cheese-sldigi-baconasparagus-02201985-0-0-0-0-0-0-2000-e30f395e1ebd4302ae72f.jpg"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Keto Garlic Butter Steak",
+    "short_description": "Juicy steak cooked in flavorful garlic butter, a satisfying keto-friendly dinner option.",
+    "preparing_time": "20 minutes",
+    "calories": 450,
+    "ingredients": [
+      "4 ribeye steaks",
+      "4 cloves garlic, minced",
+      "4 tablespoons butter",
+      "Salt and pepper to taste"
+    ],
+    "recipe_image": "https://i.ibb.co/ZWHfzzQ/80449712-a71e-4407-a33c-1c2ea535fb72-jane-hornby-steak-garlic-butter.jpg"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Keto Zucchini Noodles with Pesto",
+    "short_description": "Fresh zucchini noodles tossed in homemade pesto sauce, a light and healthy keto meal.",
+    "preparing_time": "15 minutes",
+    "calories": 220,
+    "ingredients": [
+      "3 medium zucchinis, spiralized",
+      "1/2 cup fresh basil leaves",
+      "1/4 cup pine nuts",
+      "1/4 cup grated Parmesan cheese",
+      "2 cloves garlic",
+      "1/4 cup olive oil",
+      "Salt and pepper to taste"
+    ],
+    "recipe_image": "https://i.ibb.co/k074HdL/Zucchini-Noodles-with-Pesto-7.jpg"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Keto Chicken Alfredo",
+    "short_description": "Creamy Alfredo sauce served over tender chicken breasts, a satisfying keto dinner option.",
+    "preparing_time": "35 minutes",
+    "calories": 380,
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "2 tablespoons olive oil",
+      "2 cloves garlic, minced",
+      "1 cup heavy cream",
+      "1/2 cup grated Parmesan cheese",
+      "Salt and pepper to taste"
+    ],
+    "recipe_image": "https://i.ibb.co/nQdhkZb/How-to-Make-Chicken-Alfredo-Pasta-hero-02082017.webp"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Keto Broccoli Cheese Soup",
+    "short_description": "Rich and creamy broccoli cheese soup made with low-carb ingredients, perfect for a cozy keto-friendly meal.",
+    "preparing_time": "40 minutes",
+    "calories": 300,
+    "ingredients": [
+      "4 cups fresh broccoli florets",
+      "1 small onion, chopped",
+      "2 cloves garlic, minced",
+      "4 cups chicken broth",
+      "2 cups shredded cheddar cheese",
+      "1 cup heavy cream",
+      "Salt and pepper to taste"
+    ],
+    "recipe_image": "https://i.ibb.co/phC9h8D/Broccoli-Cheese-1-JPG-scaled.jpg"
+  }
+]

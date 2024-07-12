@@ -1,0 +1,28 @@
+.bg1 {
+  background-image: url(../../../public/boston-public-library-6EDezfYu3uk-unsplash.jpg);
+  width: 100%;
+  height: auto%;
+  background-position: center;
+  background-size: cover;
+}
+.bg2 {
+  background-image: url(../../../public/boston-public-library-IObZyz4bNLw-unsplash.jpg);
+  width: 100%;
+  height: auto%;
+  background-position: center;
+  background-size: cover;
+}
+.bg3 {
+  background-image: url(../../../public/birmingham-museums-trust-aIs9zmgTEl4-unsplash.jpg);
+  width: 100%;
+  height: auto%;
+  background-position: center;
+  background-size: cover;
+}
+.bg4 {
+  background-image: url(../../../public/daniele-fasoli-sNQMXw8wT5U-unsplash.jpg);
+  width: 100%;
+  height: auto%;
+  background-position: center;
+  background-size: cover;
+}

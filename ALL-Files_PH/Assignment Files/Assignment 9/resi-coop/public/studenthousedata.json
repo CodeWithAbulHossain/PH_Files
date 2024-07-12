@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Luxurious Student Residence",
+    "segment_name": "student housing",
+    "description": "A modern and luxurious student residence offering spacious living areas, state-of-the-art facilities, and a vibrant community atmosphere.",
+    "price": 75000,
+    "status": "rent",
+    "area": "3000 sq ft",
+    "location": "New York",
+    "facilities": ["living room", "swimming pool", "kitchen"],
+    "image": "https://i.ibb.co/4P6jhPh/Luxurious-Student-Residence2.jpg"
+  },
+  {
+    "id": 2,
+    "estate_title": "Modern Student Apartment",
+    "segment_name": "student housing",
+    "description": "A sleek and contemporary student apartment featuring high-end finishes, panoramic city views, and convenient access to campus and amenities.",
+    "price": 55000,
+    "status": "sale",
+    "area": "2500 sq ft",
+    "location": "Los Angeles",
+    "facilities": ["living room", "swimming pool", "kitchen"],
+    "image": "https://i.ibb.co/c1VHfZ1/Modern-Student-Apartment.jpg"
+  },
+  {
+    "id": 3,
+    "estate_title": "Cozy Student Studio",
+    "segment_name": "student housing",
+    "description": "A cozy and comfortable student studio offering a peaceful retreat for focused study and relaxation, with easy access to campus and nearby amenities.",
+    "price": 35000,
+    "status": "rent",
+    "area": "1500 sq ft",
+    "location": "Chicago",
+    "facilities": ["living room", "swimming pool", "kitchen"],
+    "image": "https://i.ibb.co/7bz18jp/Cozy-Student-Studio.jpg"
+  }
+]

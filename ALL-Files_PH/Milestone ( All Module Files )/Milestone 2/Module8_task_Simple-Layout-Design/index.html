@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsiv Flex</title>
+    <style>
+      .container {
+        display: flex;
+        border: 1px solid tomato;
+        gap: 25px;
+        padding: 20px;
+        margin-bottom: 10px;
+      }
+      .box1 {
+        background-color: burlywood;
+        padding: 20px;
+        border-radius: 20px;
+      }
+
+      .container2 {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+      .box {
+        width: 200px;
+        height: 100px;
+        border: 2px solid red;
+      }
+
+      @media screen and (max-width: 576px) {
+        .container {
+          flex-direction: column;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Flexible Flex</h2>
+    <div class="container">
+      <div class="box1">
+        <h3>First Box</h3>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur
+          autem quidem quibusdam ipsum adipisci minima, saepe, non assumenda
+          error ut quae, accusantium rerum commodi quos.
+        </p>
+      </div>
+      <div class="box1">
+        <h3>Second Box</h3>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
+          voluptatem unde vel distinctio repellendus quidem ratione! Repellendus
+          at numquam ipsam asperiores officiis ipsa nam vel?
+        </p>
+      </div>
+    </div>
+    <div class="container2">
+      <div class="box">Item - 1</div>
+      <div class="box">Item - 2</div>
+      <div class="box">Item - 3</div>
+      <div class="box">Item - 4</div>
+      <div class="box">Item - 5</div>
+      <div class="box">Item - 6</div>
+      <div class="box">Item - 7</div>
+      <div class="box">Item - 8</div>
+      <div class="box">Item - 9</div>
+      <div class="box">Item - 10</div>
+      <div class="box">Item - 11</div>
+      <div class="box">Item - 12</div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JS DOM</title>
+    <link rel="stylesheet" href="./style/style.css" />
+    <style>
+      li {
+        color: chartreuse;
+      }
+      #fu-title {
+        color: rgb(255, 0, 102);
+      }
+      .impo-pla {
+        color: brown;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>JS DOm</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
+        dicta sed ullam voluptatem minus magnam ipsum provident fugit aperiam
+        rem voluptas asperiores vero nobis, sit facere dolorum, non facilis
+        sequi!
+      </p>
+    </header>
+    <main id="main-conent">
+      <section>
+        <div>
+          <h1>Javascript DOM</h1>
+          <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JS</li>
+            <li>REACT</li>
+            <li>NODE.JS</li>
+          </ul>
+        </div>
+      </section>
+      <section>
+        <div>
+          <h1 id="fu-title">my favourite fruits List</h1>
+          <ul>
+            <li>apple</li>
+            <li>banana</li>
+            <li>mango</li>
+          </ul>
+        </div>
+      </section>
+      <section id="places-container" class="large-text">
+        <div>
+          <h1 id="pla-title">my favourite place</h1>
+          <ul id="places-list">
+            <li class="impo-pla">sylhet</li>
+            <li class="impo-pla">Barishal</li>
+            <li class="impo-pla">Kuykata</li>
+          </ul>
+        </div>
+      </section>
+    </main>
+    <script src="./js files/dom.js"></script>
+    <script src="./js files/append.js"></script>
+    <script src="./js files/styleinjs.js"></script>
+
+    <script>
+      //   const totalLi = document.getElementsByTagName("li");
+      //   //   console.log(totalLi);
+      //   for (const li of totalLi) {
+      //     console.log(li.innerHTML);
+      //   }
+      const places = document.getElementById("pla-title");
+      // places.innerText = "Places all";
+
+      const places1 = document.getElementsByClassName("impo-pla");
+      // for (const place of places1) console.log(place.innerText);
+    </script>
+  </body>
+</html>
